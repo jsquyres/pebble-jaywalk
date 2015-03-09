@@ -1,8 +1,8 @@
 {
-  "uuid": "2793f454-d731-4a7b-8476-741ff119bb32",
-  "shortName": "big-beez-tutorial",
-  "longName": "big-beez-tutorial",
-  "companyName": "Wailing Banshees",
+  "uuid": "2793f454-d731-4a7b-8476-741ff119bb33",
+  "shortName": "Jaywalk",
+  "longName": "Jaywalk",
+  "companyName": "Jeff Squyres",
   "versionCode": 1,
   "versionLabel": "1.0",
   "sdkVersion": "3",
@@ -12,27 +12,27 @@
     "watchface": true
   },
   "appKeys": {
-    "KEY_TEMPERATURE": 0,
-    "KEY_CONDITIONS": 1
+    "dummy": 0
   },
   "resources": {
     "media": [
 	{
 	    "type": "font",
-	    "name": "FONT_myfont_40",
-	    "file": "fonts/perfect-dos-vga.ttf",
+	    "name": "FONT_BATTERY_14",
+	    "file": "fonts/RobotoCondensed-Regular.ttf",
 	    "compatibility": "2.7"
 	},
 	{
 	    "type": "font",
-	    "name": "FONT_myfont_20",
-	    "file": "fonts/perfect-dos-vga.ttf",
+	    "name": "FONT_DATE_20",
+	    "file": "fonts/RobotoCondensed-Regular.ttf",
 	    "compatibility": "2.7"
 	},
 	{
-	    "type": "png",
-	    "name": "IMAGE_dos_background",
-	    "file": "images/pebble-dos-background.png"
+	    "type": "font",
+	    "name": "FONT_TIME_45",
+	    "file": "fonts/FrontPageNeue.ttf",
+	    "compatibility": "2.7"
 	}
     ]
   }
