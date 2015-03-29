@@ -33,6 +33,12 @@
 	    "name": "FONT_TIME_45",
 	    "file": "fonts/FrontPageNeue.ttf",
 	    "compatibility": "2.7"
+	},
+	{
+	    "type": "png",
+	    "name": "IMAGE_CHARGING",
+	    "file": "images/Battery-Charge-icon.png",
+	    "compatibility": "2.7"
 	}
     ]
   }
